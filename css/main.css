@@ -9,17 +9,29 @@ body{
     font-family: 'Rowdies';
     box-sizing: border-box;
 }
-.heading_container{
+.heading_container h1{
     width: 716px;
     height: 128px;
     display: inline-block;
-    margin: 131px 0 0 105px;
+    margin: 131px 0 131px 105px;
     color: #FE3B1F;
     line-height: 79.49px;
     font-size: 64px;
     font-family: 'Rowdies';
     font-weight: 400;
 }
+.forms{
+    margin: 0 0 0 235px;
+}
+.form {
+    width: 455px;
+    height: 54px;
+    padding: 12px 20px;
+    display: inline-block;
+    border: 1px solid #525557;
+    box-sizing: border-box;
+    margin: 10px;
+  }
 .right {
     width: 994px;
     height: 1080px;
