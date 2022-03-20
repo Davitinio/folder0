@@ -31,6 +31,8 @@ body{
     border: 1px solid #525557;
     box-sizing: border-box;
     margin: 10px;
+    font-family: 'Montserrat';
+    font-style: italic;
   }
 .right {
     width: 994px;
