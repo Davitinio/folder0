@@ -1,0 +1,118 @@
+body{
+    display: flex;
+}
+.left {
+    background-color: #ffffff;
+    width: 926px;
+    height: 1080px;
+    display: inline-block;
+    font-family: 'Rowdies';
+    box-sizing: border-box;
+}
+.heading_container h1{
+    width: 788px;
+    height: 175px;
+    display: inline-block;
+    margin: 131px 0 131px 105px;
+    color: #FE3B1F;
+    line-height: 79.49px;
+    font-size: 64px;
+    font-family: 'Rowdies';
+    font-weight: 400;
+}
+.forms{
+    /* margin: 0 0 0 235px; */
+}
+.form {
+    width: 455px;
+    height: 54px;
+    padding: 12px 20px;
+    display: inline-block;
+    border: 1px solid #525557;
+    box-sizing: border-box;
+    margin: 10px;
+    font-family: 'Montserrat';
+    font-style: italic;
+  }
+.right {
+    width: 994px;
+    height: 1080px;
+    box-sizing: border-box;
+    font-family: 'Rowdies';
+    background-color: #0C0D0E;
+   
+}
+.heading_container2 h2{
+    width: 716px;
+    height: 94px;
+    display: inline-block;
+    margin: 131px 114px 0 177px;
+    color: #FE3B1F;
+    line-height: 79.49px;
+    font-size: 64px;
+    font-family: 'Rowdies';
+    font-weight: 400;
+}
+.heading_container2 p{
+    width: 705px;
+    height: 606px;
+    display: inline-block;
+    margin: 131px 114px 0 177px;
+    color: #ffffff;
+    line-height: 48px;
+    font-size: 24px;
+    font-family: 'Montserrat';
+    font-weight: 400;
+}
+.forms_and_dots{
+    width: 455px;
+    height: 533px;
+    margin: 0 0 0 235px;
+}
+
+                                                            /* wertilebi */
+.dotcontainer{
+    display: flex;
+    height: 30px;
+    margin: 160px 0 0 106px;
+    
+    }
+.wertili {
+    display: flex;
+    width: 19px;
+    height: 19px;
+    border-radius: 50%;
+    background-color: #FE3B1F;
+    margin: 10px;
+}
+.wertili2 p {
+    display: flex;
+    width: 19px;
+    height: 19px;
+    border-style: double;
+    border-radius: 50%;
+    border-width: 2px;
+    border-color: #FE3B1F;
+    color: #FE3B1F;
+    margin: 10px;
+    font-weight: 900;
+    justify-content: center;
+}
+.tw{
+    opacity: 25%;
+}
+.arroy {
+    width: 15px;
+    height: 15px;
+    border-style: solid;
+    border-radius: 50%;
+    border-color: red;
+    border-color: orangered;
+    margin: 10px;
+}
+.isari {
+    color: orangered;
+    font-weight: bold;
+}
+
+                                                            /* wertilebi */
